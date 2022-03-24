@@ -156,23 +156,23 @@
 }
 @keyframes halfMoveTop {
   0% {
-    left: 0%;
+    left: 10%;
   }
   50% {
     left: calc(100% - 60px);
   }
   100% {
-    left: 0%;
+    left: 10%;
   }
 }
 @keyframes halfMoveBottom {
   0% {
-    right: 0%;
+    right: 20%;
   }
   50% {
     right: calc(100% - 60px);
   }
   100% {
-    right: 0%;
+    right: 20%;
   }
 }
